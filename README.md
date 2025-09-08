@@ -28,5 +28,3 @@ Datasets are linked directly in the Jupyter Notebook:
 - Built multiple ML models to predict heart disease risk.  
 - Identified key risk factors such as age, cholesterol, and blood pressure.  
 - Achieved high accuracy with KNN/SVM classifiers (~99%).  
-
-## Project Structure
